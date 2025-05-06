@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle action permet d’économiser le plus d’eau au quotidien ?",
+    "options": [
+      "Prendre un bain",
+      "Prendre une douche de 5 minutes",
+      "Laver sa voiture chaque semaine",
+      "Laisser couler l’eau en se brossant les dents"
+    ],
+    "answer": 1,
+    "feedback": "Une douche rapide consomme environ 60 L d’eau contre 150 à 200 L pour un bain."
+  },
+  {
+    "id": 2,
+    "question": "Quel déchet met le plus de temps à se décomposer dans la nature ?",
+    "options": [
+      "Une peau de banane",
+      "Une bouteille en plastique",
+      "Un ticket de caisse",
+      "Une boîte en carton"
+    ],
+    "answer": 1,
+    "feedback": "Une bouteille plastique peut mettre plus de 400 ans à se décomposer."
+  },
+  {
+    "id": 3,
+    "question": "Quel est le mode de transport le plus écologique ?",
+    "options": [
+      "La voiture électrique",
+      "Le train",
+      "Le scooter",
+      "L’avion"
+    ],
+    "answer": 1,
+    "feedback": "Le train émet beaucoup moins de CO₂ par passager que les autres transports motorisés."
+  },
+  {
+    "id": 4,
+    "question": "Quel geste simple réduit le plus la consommation d’électricité à la maison ?",
+    "options": [
+      "Éteindre les lumières quand on quitte une pièce",
+      "Mettre le four en préchauffage longtemps",
+      "Laisser les appareils en veille",
+      "Chauffer les pièces à 23°C"
+    ],
+    "answer": 0,
+    "feedback": "Éteindre les lumières et les appareils inutilisés évite un gaspillage d’énergie significatif."
+  },
+  {
+    "id": 5,
+    "question": "Quel aliment a l’empreinte carbone la plus faible ?",
+    "options": [
+      "Le fromage",
+      "Le riz",
+      "Le bœuf",
+      "Les lentilles"
+    ],
+    "answer": 3,
+    "feedback": "Les lentilles émettent très peu de gaz à effet de serre comparées aux produits animaux."
+  },
+  {
+    "id": 6,
+    "question": "Quelle habitude réduit le plus le gaspillage alimentaire ?",
+    "options": [
+      "Planifier ses repas",
+      "Acheter en trop grande quantité",
+      "Jeter les restes",
+      "Ne jamais congeler"
+    ],
+    "answer": 0,
+    "feedback": "Planifier ses repas permet de mieux gérer ses achats et d’éviter le gaspillage."
+  },
+  {
+    "id": 7,
+    "question": "Quel appareil consomme le plus d’électricité à la maison ?",
+    "options": [
+      "Le frigo",
+      "Le sèche-linge",
+      "La télévision",
+      "L’ordinateur portable"
+    ],
+    "answer": 1,
+    "feedback": "Le sèche-linge est l’un des appareils les plus énergivores."
+  },
+  {
+    "id": 8,
+    "question": "Quelle est la bonne pratique pour limiter les déchets électroniques ?",
+    "options": [
+      "Changer de téléphone chaque année",
+      "Réparer ses appareils",
+      "Jeter les vieux appareils",
+      "Acheter sans garantie"
+    ],
+    "answer": 1,
+    "feedback": "Réparer ou recycler ses appareils permet de limiter les déchets électroniques."
+  },
+  {
+    "id": 9,
+    "question": "Quel matériau est le plus facilement recyclable ?",
+    "options": [
+      "Le plastique",
+      "Le verre",
+      "Le bois",
+      "Le polystyrène"
+    ],
+    "answer": 1,
+    "feedback": "Le verre peut être recyclé à l’infini sans perte de qualité."
+  },
+  {
+    "id": 10,
+    "question": "Quelle énergie est renouvelable ?",
+    "options": [
+      "Le charbon",
+      "Le gaz naturel",
+      "Le pétrole",
+      "Le soleil"
+    ],
+    "answer": 3,
+    "feedback": "L’énergie solaire est une source renouvelable et propre."
+  },
+  {
+    "question": "Quelle habitude de consommation réduit le plus les déchets plastiques ?",
+    "options": [
+      "Acheter de l’eau en bouteille",
+      "Utiliser une gourde réutilisable",
+      "Utiliser des sacs plastiques",
+      "Prendre des couverts jetables"
+    ],
+    "answer": 1,
+    "feedback": "Utiliser une gourde permet d’éviter des centaines de bouteilles plastiques par an.",
+    "id": 11
+  },
+  {
+    "question": "Quel comportement est le plus écologique au supermarché ?",
+    "options": [
+      "Acheter des produits emballés individuellement",
+      "Utiliser un sac en tissu réutilisable",
+      "Choisir des légumes importés",
+      "Prendre un sac plastique gratuit"
+    ],
+    "answer": 1,
+    "feedback": "Un sac en tissu réutilisable réduit significativement les déchets plastiques.",
+    "id": 12
+  },
+  {
+    "question": "Quelle activité domestique consomme le plus d’eau ?",
+    "options": [
+      "Faire la vaisselle à la main",
+      "Arroser le jardin en journée",
+      "Remplir une piscine",
+      "Utiliser un lave-linge plein"
+    ],
+    "answer": 2,
+    "feedback": "Remplir une piscine consomme plusieurs milliers de litres d’eau.",
+    "id": 13
+  },
+  {
+    "question": "Quelle est la meilleure option pour se déplacer en ville écologiquement ?",
+    "options": [
+      "La voiture en solo",
+      "Le covoiturage",
+      "Le vélo",
+      "La trottinette électrique personnelle"
+    ],
+    "answer": 2,
+    "feedback": "Le vélo ne consomme aucune énergie fossile et n’émet pas de CO₂.",
+    "id": 14
+  },
+  {
+    "question": "Quelle action aide à préserver la biodiversité dans un jardin ?",
+    "options": [
+      "Couper l’herbe très court",
+      "Utiliser des pesticides",
+      "Installer un hôtel à insectes",
+      "Supprimer les fleurs sauvages"
+    ],
+    "answer": 2,
+    "feedback": "Les hôtels à insectes favorisent la présence d’espèces utiles au jardin.",
+    "id": 15
+  },
+  {
+    "question": "Quel est le meilleur moment pour arroser ses plantes en été ?",
+    "options": [
+      "En pleine journée",
+      "À midi",
+      "Tôt le matin ou le soir",
+      "Quand il pleut"
+    ],
+    "answer": 2,
+    "feedback": "Arroser le matin ou le soir limite l’évaporation de l’eau.",
+    "id": 16
+  },
+  {
+    "question": "Quel comportement est le plus responsable face à un vêtement usé ?",
+    "options": [
+      "Le jeter à la poubelle",
+      "Le donner ou recycler",
+      "Le brûler",
+      "L’enfouir dans le jardin"
+    ],
+    "answer": 1,
+    "feedback": "Donner ou recycler permet d’éviter des déchets textiles inutiles.",
+    "id": 17
+  },
+  {
+    "question": "Quel type d’aliment est le plus respectueux de l’environnement ?",
+    "options": [
+      "Fruits locaux de saison",
+      "Fruits exotiques par avion",
+      "Plats surgelés importés",
+      "Produits hors-saison sous serre chauffée"
+    ],
+    "answer": 0,
+    "feedback": "Les fruits locaux et de saison nécessitent moins d’énergie et de transport.",
+    "id": 18
+  },
+  {
+    "question": "Quelle est la meilleure façon de se débarrasser des piles usagées ?",
+    "options": [
+      "Les jeter à la poubelle",
+      "Les enterrer",
+      "Les ramener en point de collecte",
+      "Les brûler"
+    ],
+    "answer": 2,
+    "feedback": "Les piles doivent être recyclées via des points de collecte spécialisés.",
+    "id": 19
+  },
+  {
+    "question": "Quel comportement réduit l’empreinte carbone d’un logement ?",
+    "options": [
+      "Isoler les fenêtres",
+      "Monter le chauffage à 25°C",
+      "Ouvrir les fenêtres en hiver",
+      "Utiliser un sèche-linge tous les jours"
+    ],
+    "answer": 0,
+    "feedback": "L’isolation réduit les pertes de chaleur et donc la consommation d’énergie.",
+    "id": 20
+  },
+  {
+    "question": "Quel objet a la durée de vie la plus longue ?",
+    "options": [
+      "Un sac plastique",
+      "Un chewing-gum",
+      "Une brique de lait",
+      "Une batterie de téléphone"
+    ],
+    "answer": 3,
+    "feedback": "Les batteries contiennent des métaux lourds et peuvent durer plusieurs années si bien traitées.",
+    "id": 21
+  },
+  {
+    "question": "Quelle est la meilleure alternative aux produits jetables ?",
+    "options": [
+      "Utiliser des produits lavables",
+      "Jeter plus souvent",
+      "Acheter plus de sacs",
+      "Utiliser des emballages plastiques"
+    ],
+    "answer": 0,
+    "feedback": "Les produits lavables réduisent drastiquement les déchets à la source.",
+    "id": 22
+  },
+  {
+    "question": "Quel appareil est le moins gourmand en énergie ?",
+    "options": [
+      "Un four électrique",
+      "Un micro-ondes",
+      "Un lave-vaisselle ancien",
+      "Un radiateur soufflant"
+    ],
+    "answer": 1,
+    "feedback": "Le micro-ondes chauffe rapidement et consomme peu comparé aux autres.",
+    "id": 23
+  },
+  {
+    "question": "Quel est le meilleur usage de l’eau de pluie récupérée ?",
+    "options": [
+      "Remplir une piscine",
+      "Faire la vaisselle",
+      "Arroser les plantes",
+      "Boire directement"
+    ],
+    "answer": 2,
+    "feedback": "L’eau de pluie peut être utilisée pour arroser ou nettoyer, pas pour la consommation directe sans traitement.",
+    "id": 24
+  },
+  {
+    "question": "Quel comportement réduit l’impact environnemental de l’alimentation ?",
+    "options": [
+      "Manger plus de viande",
+      "Privilégier les circuits courts",
+      "Acheter hors-saison",
+      "Consommer ultra-transformé"
+    ],
+    "answer": 1,
+    "feedback": "Les circuits courts réduisent les transports et soutiennent les producteurs locaux.",
+    "id": 25
+  },
+  {
+    "question": "Quelle est une bonne pratique pour réduire ses déchets verts ?",
+    "options": [
+      "Tout mettre à la déchetterie",
+      "Composter chez soi",
+      "Les brûler dans le jardin",
+      "Les jeter dans la poubelle noire"
+    ],
+    "answer": 1,
+    "feedback": "Le compostage domestique permet de valoriser naturellement les déchets organiques.",
+    "id": 26
+  },
+  {
+    "question": "Quelle pratique numérique est la plus éco-responsable ?",
+    "options": [
+      "Supprimer ses mails inutiles",
+      "Laisser ses mails indéfiniment",
+      "Multiplier les pièces jointes lourdes",
+      "Garder tous ses fichiers dans le cloud"
+    ],
+    "answer": 0,
+    "feedback": "Supprimer les mails réduit le stockage et donc l’énergie utilisée par les serveurs.",
+    "id": 27
+  }
+]
