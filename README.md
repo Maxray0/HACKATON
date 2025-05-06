@@ -15,3 +15,7 @@ npm run dev
 - React + TypeScript
 - TailwindCSS
 - JSON statique pour les questions
+
+## 🌐Hébergement
+- Netlify
+- [Lien vers le quiz](https://celadon-cucurucho-def808.netlify.app)
